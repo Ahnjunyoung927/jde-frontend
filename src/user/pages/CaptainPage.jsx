@@ -63,7 +63,7 @@ const CaptainsPage = () => {
     <UserPageContainer>
       <CaptainPageBody>
         <CaptainTitle>미식대장</CaptainTitle>
-        <CaptainSubTitle>미식대장들의 리뷰를 확인해보세요.</CaptainSubTitle>
+        <CaptainSubTitle>미식대장들의 리뷰로 숨은 맛집을 찾아보세요.</CaptainSubTitle>
 
         {errorMsg && <CaptainErrorBox>{errorMsg}</CaptainErrorBox>}
 
